@@ -26,8 +26,23 @@ $body-bg: #ddd;
 
 body {
   font: 1rem/1.5 var(--bs-font-sans-serif);
+  background-color: rgb(235, 225, 215);
+}
+.nude {
+  color: rgb(235, 225, 215);
 }
 section {
   color: var(dark);
   margin: 10px;
+}
+
+.seitenueberschrift {
+  font-weight: bold;
+}
+
+ul {
+  background-color: rgb(235, 225, 215);
+}
+.nav-item {
+  font-weight: bold;
 }
